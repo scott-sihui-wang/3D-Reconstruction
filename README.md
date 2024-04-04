@@ -2,7 +2,11 @@
 
 ## 1. Introduction
 
-In this project, I first implemented `homography estimation` by feature point extraction, matching, and `RANSAC`. Then, I used the computation of `planar homography` to stitch two video scenarios together to generate an "augmented reality" scene.
+In this project, the goals are:
+
+- Recover `fundamental matrices` and `essential matrices` from `stereo` images for depth estimation and 3D reconstruction;
+  
+- `Pose estimation` from 2D - 3D corresponding points.
 
 For a more thourough introduction of my project, please refer to my [report](report.pdf).
 
