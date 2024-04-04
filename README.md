@@ -10,8 +10,18 @@ In this project, the goals are:
 
 For a more thourough introduction of my project, please refer to my [report](report.pdf).
 
-**Topics:** _Computer Vision_, _Homography Estimation_, _Video Stitching_
+**Topics:** _Computer Vision_, _3D Reconstruction_, _Pose Estimation_, _Fundamental Matrix_, _Essential Matrix_, _Intrinsic Matrix_
 
 **Skills:** _Matlab_
 
 ## 2. Demo
+
+The epipolar line for the `stereo` images:
+
+![](epipolar.png)
+
+THe reconstructed object:
+
+![](reconstruction.png)
+
+
