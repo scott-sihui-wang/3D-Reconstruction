@@ -18,10 +18,10 @@ For a more thourough introduction of my project, please refer to my [report](rep
 
 The epipolar line for the `stereo` images:
 
-![](epipolar.png)
+![](/demo/epipolar.png)
 
 THe reconstructed object:
 
-![](reconstruction.png)
+![](/demo/reconstruction.png)
 
 
